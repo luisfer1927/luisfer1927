@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Me llamo Luis Martinez</h1>
-<h3 align="center">Soy un apasionado backend developer from Colombia</h3>
+<h2 align="center">Soy un apasionado backend developer from Colombia</h2>
 
 - 💬 Ask me about **html, css, javascript, php, python**
 
